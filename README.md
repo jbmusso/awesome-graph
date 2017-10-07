@@ -18,6 +18,13 @@ A curated list of resources for graph databases and graph computing tools
 * [Stardog](http://stardog.com/) - RDF graph database with OLTP and OLAP support
 * [OrientDB](http://orientdb.com/orientdb/) - Distributed Multi-Model NoSQL Database with a Graph Database Engine
 
+### Triple stores
+
+* [AllegroGraph](https://franz.com/agraph/allegrograph/) - high-performance, persistent graph database that scales to billions of quads
+* [Apache Jena](https://jena.apache.org/) - open source Java framework for building Semantic Web and Linked Data applications
+* [GraphDB](http://graphdb.ontotext.com/graphdb/) - enterprise ready Semantic Graph Database, compliant with W3C Standards
+* [Virtuoso](https://virtuoso.openlinksw.com/) - a "Data Junction Box" that drives enterprise and individual agility by deriving a Semantic Web of Linked Data from existing data silos
+
 ## Graph computing frameworks
 
 * [Apache Giraph](https://giraph.apache.org/) - an iterative graph processing system built for high scalability
