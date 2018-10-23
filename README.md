@@ -4,7 +4,7 @@ A curated list of resources for graph databases and graph computing tools
 
 ## Graph databases
 
-* [AgensGraph](http://bitnine.net/agensgraph/) - multi-model graph database with SQL and Cypher support
+* [AgensGraph](https://bitnine.net/agensgraph-2/) - multi-model graph database with SQL and Cypher support
 * [ArangoDB](https://www.arangodb.com/) - highly available Multi-Model NoSQL database
 * [Blazegraph](https://github.com/blazegraph/database) - GPU accelerated graph database
 * [Cayley](https://github.com/cayleygraph/cayley) - open source database written in Go
