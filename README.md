@@ -43,7 +43,6 @@ A curated list of resources for graph databases and graph computing tools
 ## Managed hosting services
 
 * [CosmosDB @ Microsoft](https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction)
-* [IBM Graph @ IBM Bluemix](https://console.ng.bluemix.net/catalog/services/ibm-graph/) - OLTP graph database as a service.
 * [JanusGraph @ IBM Compose](https://www.compose.com/databases/janusgraph)
 * [JanusGraph @ Google Cloud Platform](https://cloud.google.com/solutions/running-janusgraph-with-bigtable) - JanusGraph on Google Kubernetes Engine backed by Google Cloud Bigtable
 * [JanusGraph @ Amazon Web Services Labs](https://github.com/awslabs/dynamodb-janusgraph-storage-backend)
