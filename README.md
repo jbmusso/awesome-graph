@@ -24,7 +24,7 @@ A curated list of resources for graph databases and graph computing tools
 
 * [AllegroGraph](https://franz.com/agraph/allegrograph/) - high-performance, persistent graph database that scales to billions of quads
 * [Apache Jena](https://jena.apache.org/) - open source Java framework for building Semantic Web and Linked Data applications
-* [Dydra](https://www.dydra.com) - Dydra is a cloud-based graph database. Dydra stores data is natively stored as a property graph, directly representing the relationships in the underlying data.
+* [Dydra]( http://docs.dydra.com/dydra) - Dydra is a cloud-based graph database. Dydra stores data is natively stored as a property graph, directly representing the relationships in the underlying data.
 * [Eclipse RDF4J](http://rdf4j.org/) - (formerly known as Sesame) is an open source Java framework for processing RDF data. This includes parsing, storing, inferencing and querying of/over such data. It offers an easy-to-use API that can be connected to all leading RDF storage solutions. It allows you to connect with SPARQL endpoints and create applications that leverage the power of linked data and Semantic Web.
 * [GraphDB](http://graphdb.ontotext.com/graphdb/) - enterprise ready Semantic Graph Database, compliant with W3C Standards
 * [Virtuoso](https://virtuoso.openlinksw.com/) - a "Data Junction Box" that drives enterprise and individual agility by deriving a Semantic Web of Linked Data from existing data silos
