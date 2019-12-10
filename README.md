@@ -21,7 +21,7 @@ A curated list of resources for graph databases and graph computing tools
 * [OrientDB](http://orientdb.com/orientdb/) - Distributed Multi-Model NoSQL Database with a Graph Database Engine
 
 ### Triple stores
-
+* [Akutan](https://github.com/eBay/akutan) - Akutan is a distributed knowledge graph store, sometimes called an RDF store or a triple store
 * [AllegroGraph](https://franz.com/agraph/allegrograph/) - high-performance, persistent graph database that scales to billions of quads
 * [Apache Jena](https://jena.apache.org/) - open source Java framework for building Semantic Web and Linked Data applications
 * [Dydra]( http://docs.dydra.com/dydra) - Dydra is a cloud-based graph database. Dydra stores data is natively stored as a property graph, directly representing the relationships in the underlying data.
