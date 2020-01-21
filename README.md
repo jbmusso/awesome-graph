@@ -4,6 +4,7 @@ A curated list of resources for graph databases and graph computing tools
 
 ## Graph databases
 
+* [Nebula](http://nebula-graph.io/) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
 * [AgensGraph](https://bitnine.net/agensgraph-2/) - multi-model graph database with SQL and Cypher support
 * [ArangoDB](https://www.arangodb.com/) - highly available Multi-Model NoSQL database
 * [Blazegraph](https://github.com/blazegraph/database) - GPU accelerated graph database
