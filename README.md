@@ -21,6 +21,7 @@ A curated list of resources for graph databases and graph computing tools
 * [Sparksee](http://www.sparsity-technologies.com/#sparksee) - makes space and performance compatible with a small footprint and a fast analysis of large networks
 * [Stardog](http://stardog.com/) - RDF graph database with OLTP and OLAP support
 * [OrientDB](http://orientdb.com/orientdb/) - Distributed Multi-Model NoSQL Database with a Graph Database Engine
+* [TigerGraph](https://www.tigergraph.com/) - The First Native Parallel Graph capable of real-time analytics on web-scale data
 
 ### Triple stores
 * [Akutan](https://github.com/eBay/akutan) - Akutan is a distributed knowledge graph store, sometimes called an RDF store or a triple store
@@ -43,6 +44,7 @@ A curated list of resources for graph databases and graph computing tools
 * [Cypher](http://www.opencypher.org/)
 * [Gremlin](https://tinkerpop.apache.org/gremlin.html)
 * [SPARQL](https://en.wikipedia.org/wiki/SPARQL)
+* [GSQL](https://docs.tigergraph.com/)
 
 ## Managed hosting services
 
@@ -63,6 +65,9 @@ A curated list of resources for graph databases and graph computing tools
 * [Graph Book](https://github.com/krlawrence/graph) - TinkerPop3 centric book written by [Kelvin R. Lawrence](https://twitter.com/gfxman)
 * [SQL2Gremlin](http://sql2gremlin.com/) - transition from SQL to Gremlin by [Daniel Kuppitz](https://twitter.com/dkuppitz)
 * [The Gremlin Compendium](http://www.doanduyhai.com/blog/?p=13460) - minimum survival kit for any Gremlin user, 10 blog post series by [Doan DuyHai](https://twitter.com/doanduyhai)
+
+### Blogs
+* [TigerGraph Blog](https://www.tigergraph.com/blog/)
 
 ## Conferences
 
