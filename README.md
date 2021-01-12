@@ -21,6 +21,7 @@ A curated list of resources for graph databases and graph computing tools
 * [Sparksee](http://www.sparsity-technologies.com/#sparksee) - makes space and performance compatible with a small footprint and a fast analysis of large networks
 * [Stardog](http://stardog.com/) - RDF graph database with OLTP and OLAP support
 * [OrientDB](http://orientdb.com/orientdb/) - Distributed Multi-Model NoSQL Database with a Graph Database Engine
+* [TerminusDB](https://github.com/terminusdb/terminusdb) is an open source graph database and document store. It is designed for collaboratively building data-intensive applications and knowledge graphs.
 * [TigerGraph](https://www.tigergraph.com/) - The First Native Parallel Graph capable of real-time analytics on web-scale data
 
 ### Triple stores
@@ -42,6 +43,7 @@ A curated list of resources for graph databases and graph computing tools
 ## Languages
 
 * [Cypher](http://www.opencypher.org/)
+* [Datalog](https://en.wikipedia.org/wiki/Datalog)
 * [Gremlin](https://tinkerpop.apache.org/gremlin.html)
 * [SPARQL](https://en.wikipedia.org/wiki/SPARQL)
 * [GSQL](https://docs.tigergraph.com/)
