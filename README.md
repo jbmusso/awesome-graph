@@ -39,6 +39,7 @@ A curated list of resources for graph databases and graph computing tools
 * [Apache Giraph](https://giraph.apache.org/) - an iterative graph processing system built for high scalability
 * [Apache TinkerPop](https://tinkerpop.apache.org/) - a graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP)
 * [Apache Spark - GraphX](https://spark.apache.org/graphx/) - Apache Spark's API for graphs and graph-parallel computation
+* [GraphScope](https://github.com/alibaba/GraphScope) - A one-stop large-scale graph computing system from Alibaba
 
 ## Languages
 
