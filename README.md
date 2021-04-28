@@ -5,6 +5,7 @@ A curated list of resources for graph databases and graph computing tools
 ## Graph databases
 
 * [AgensGraph](https://bitnine.net/agensgraph-2/) - multi-model graph database with SQL and Cypher support
+* [AnzoGraph](https://www.cambridgesemantics.com/anzograph/) - Massively parallel graph database with advanced analytics (SPARQL, Cypher, OWL/RDFS+, LPG) 
 * [ArangoDB](https://www.arangodb.com/) - highly available Multi-Model NoSQL database
 * [Blazegraph](https://github.com/blazegraph/database) - GPU accelerated graph database
 * [Cayley](https://github.com/cayleygraph/cayley) - open source database written in Go
@@ -24,6 +25,7 @@ A curated list of resources for graph databases and graph computing tools
 * [OrientDB](http://orientdb.com/orientdb/) - Distributed Multi-Model NoSQL Database with a Graph Database Engine
 * [TerminusDB](https://github.com/terminusdb/terminusdb) is an open source graph database and document store. It is designed for collaboratively building data-intensive applications and knowledge graphs.
 * [TigerGraph](https://www.tigergraph.com/) - The First Native Parallel Graph capable of real-time analytics on web-scale data
+* [Weaviate](https://github.com/semi-technologies/weaviate) - Weaviate is a cloud-native, modular, real-time vector search engine with a graph data model (GraphQL interface) built to scale your machine learning models.
 
 ### Triple stores
 * [Akutan](https://github.com/eBay/akutan) - Akutan is a distributed knowledge graph store, sometimes called an RDF store or a triple store
@@ -40,6 +42,7 @@ A curated list of resources for graph databases and graph computing tools
 * [Apache Giraph](https://giraph.apache.org/) - an iterative graph processing system built for high scalability
 * [Apache TinkerPop](https://tinkerpop.apache.org/) - a graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP)
 * [Apache Spark - GraphX](https://spark.apache.org/graphx/) - Apache Spark's API for graphs and graph-parallel computation
+* [GraphScope](https://github.com/alibaba/GraphScope) - A one-stop large-scale graph computing system from Alibaba
 
 ## Languages
 
