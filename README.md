@@ -6,6 +6,7 @@ A curated list of resources for graph databases and graph computing tools
 
 * [AgensGraph](https://bitnine.net/agensgraph-2/) - multi-model graph database with SQL and Cypher support
 * [AnzoGraph](https://www.cambridgesemantics.com/anzograph/) - Massively parallel graph database with advanced analytics (SPARQL, Cypher, OWL/RDFS+, LPG) 
+* [Atomic-Server](https://crates.io/crates/atomic-server/) - open-source type-safe graph database server with GUI, written in rust. Supports [Atomic Data](docs.atomicdata.dev/), JSON & RDF.
 * [ArangoDB](https://www.arangodb.com/) - highly available Multi-Model NoSQL database
 * [Blazegraph](https://github.com/blazegraph/database) - GPU accelerated graph database
 * [Cayley](https://github.com/cayleygraph/cayley) - open source database written in Go
