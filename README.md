@@ -15,6 +15,7 @@ A curated list of resources for graph databases and graph computing tools
 * [DSE Graph](https://www.datastax.com/products/datastax-enterprise-graph) - Graph layer on top of DataStax Enterprise (Cassandra, SolR, Spark)
 * [Grafito](https://github.com/arturo-lang/grafito) - Portable, Serverless & Lightweight SQLite-based Graph Database in Arturo
 * [Grakn.AI](https://grakn.ai/) - a distributed hyper-relational database for knowledge-oriented systems, i.e. a distributed knowledge base
+* [Grand](https://github.com/aplbrain/grand) - Interoperable abstraction layer for graph query languages and graph databases
 * [Graphd](https://github.com/google/graphd) - the Metaweb/Freebase Graph Repository
 * [JanusGraph](http://janusgraph.org) - an open-source, distributed graph database with pluggable storage and indexing backends
 * [Memgraph](https://memgraph.com/) - High Performance, In-Memory, Transactional Graph Database
@@ -49,6 +50,7 @@ A curated list of resources for graph databases and graph computing tools
 
 * [Cypher](http://www.opencypher.org/)
 * [Datalog](https://en.wikipedia.org/wiki/Datalog)
+* [DotMotif](https://github.com/aplbrain/dotmotif)
 * [Gremlin](https://tinkerpop.apache.org/gremlin.html)
 * [SPARQL](https://en.wikipedia.org/wiki/SPARQL)
 * [GSQL](https://docs.tigergraph.com/)
