@@ -44,6 +44,7 @@ A curated list of resources for graph databases and graph computing tools
 * [Apache TinkerPop](https://tinkerpop.apache.org/) - a graph computing framework for both graph databases (OLTP) and graph analytic systems (OLAP)
 * [Apache Spark - GraphX](https://spark.apache.org/graphx/) - Apache Spark's API for graphs and graph-parallel computation
 * [GraphScope](https://github.com/alibaba/GraphScope) - A one-stop large-scale graph computing system from Alibaba
+* [Morph-KGC](https://github.com/morph-kgc/morph-kgc/) - A graph generation system with RML mappings
 
 ## Languages
 
