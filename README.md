@@ -20,7 +20,7 @@ A curated list of resources for graph databases and graph computing tools
 * [Graphd](https://github.com/google/graphd) - the Metaweb/Freebase Graph Repository
 * [JanusGraph](http://janusgraph.org) - an open-source, distributed graph database with pluggable storage and indexing backends
 * [Memgraph](https://memgraph.com/) - High Performance, In-Memory, Transactional Graph Database
-* [Neo4j](http://tinkerpop.apache.org/docs/current/#neo4j-gremlin) - OLTP graph database
+* [Memgraph MCP Server](https://github.com/mgorunuch/memgraph-mcp-server) - Go implementation of an MCP server for Memgraph with Homebrew integration and safety controls* [Neo4j](http://tinkerpop.apache.org/docs/current/#neo4j-gremlin) - OLTP graph database
 * [Nebula Graph](http://nebula-graph.io/) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
 * [Sparksee](http://www.sparsity-technologies.com/#sparksee) - makes space and performance compatible with a small footprint and a fast analysis of large networks
 * [Stardog](http://stardog.com/) - RDF graph database with OLTP and OLAP support
