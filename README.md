@@ -4,6 +4,7 @@ A curated list of resources for graph databases and graph computing tools
 
 ## Graph databases
 
+* [Actionbase](https://github.com/kakao/actionbase) - A database for user interactions (likes, views, follows) represented as graphs, with precomputed reads served in real-time.
 * [AgensGraph](https://bitnine.net/agensgraph-2/) - multi-model graph database with SQL and Cypher support
 * [AnzoGraph](https://www.cambridgesemantics.com/anzograph/) - Massively parallel graph database with advanced analytics (SPARQL, Cypher, OWL/RDFS+, LPG)
 * [ArcadeDB](https://arcadedb.com/) - open-source multi-model database supporting graphs, documents, key-value, time series and vector embeddings with SQL, Cypher, Gremlin and GraphQL query languages 
