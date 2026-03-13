@@ -28,6 +28,7 @@ A curated list of resources for graph databases and graph computing tools
 * [TerminusDB](https://github.com/terminusdb/terminusdb) is an open source graph database and document store. It is designed for collaboratively building data-intensive applications and knowledge graphs.
 * [TigerGraph](https://www.tigergraph.com/) - The First Native Parallel Graph capable of real-time analytics on web-scale data
 * [Weaviate](https://github.com/semi-technologies/weaviate) - Weaviate is a cloud-native, modular, real-time vector search engine with a graph data model (GraphQL interface) built to scale your machine learning models.
+* [Raphtory](https://www.raphtory.com/)![Status](https://img.shields.io/badge/status-active-brightgreen)![Language](https://img.shields.io/badge/language-RUST-blue) - An in-memory vectorised graph database written in Rust with Python APIs on top.
 
 ### Triple stores
 * [Akutan](https://github.com/eBay/akutan) - Akutan is a distributed knowledge graph store, sometimes called an RDF store or a triple store
