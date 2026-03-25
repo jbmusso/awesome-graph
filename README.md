@@ -53,6 +53,9 @@ A curated list of resources for graph databases and graph computing tools
 * [Gremlin](https://tinkerpop.apache.org/gremlin.html)
 * [SPARQL](https://en.wikipedia.org/wiki/SPARQL)
 * [GSQL](https://docs.tigergraph.com/)
+* [GQL](https://www.gqlstandards.org/)
+* [GQL (GoogleSQL)](https://docs.cloud.google.com/spanner/docs/reference/standard-sql/graph-intro)
+* [SQL:2023](https://blogs.oracle.com/sql/general-availability-of-the-sql2023-standard)
 
 ## Managed hosting services
 
@@ -62,6 +65,16 @@ A curated list of resources for graph databases and graph computing tools
 * [JanusGraph @ Amazon Web Services Labs](https://github.com/awslabs/dynamodb-janusgraph-storage-backend)
 * [Neo4j @ Graphene](https://www.graphenedb.com/)
 * [Neptune @ Amazon Web Services](https://aws.amazon.com/neptune/) - a fast, reliable, fully-managed graph database service that makes it easy to build and run applications that work with highly connected datasets
+
+## Graph Database IDE & Visualization Tools
+* [gdotv](https://gdotv.com) - a graph database IDE and visualization tool compatible with over 30 graph databases and 6 query languages
+* [Neo4j Browser](https://neo4j.com/docs/browser/) - the official Neo4j graph database web client
+* [FalkorDB Browser](https://github.com/FalkorDB/falkordb-browser) - the official graph visualization UI for FalkorDB
+* [Gruff](https://allegrograph.com/products/gruff/) - No Code Knowledge Graph Exploration
+* [Tom Sawyer Perspectives](https://www.tomsawyer.com/data-analysis-and-visualization-with-tom-sawyer-perspectives) - build effective graph visualization and analysis applications that give value to your data.
+* [Yasgui](https://github.com/TriplyDB/Yasgui) - an open-source SPARQL query editor with query results visualization
+* [AWS Graph Notebook](https://github.com/aws/graph-notebook) - an open-source jupyter notebook tool with support for Gremlin, openCypher and SPARQL
+* [AWS Graph Explorer](https://github.com/aws/graph-explorer) - a React-based web application that makes it easy to visualize and explore graph data, no query language knowledge required
 
 ## Learning materials
 
