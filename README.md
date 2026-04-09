@@ -27,6 +27,7 @@ A curated list of resources for graph databases and graph computing tools
 * [OrientDB](http://orientdb.com/orientdb/) - Distributed Multi-Model NoSQL Database with a Graph Database Engine
 * [TerminusDB](https://github.com/terminusdb/terminusdb) is an open source graph database and document store. It is designed for collaboratively building data-intensive applications and knowledge graphs.
 * [TigerGraph](https://www.tigergraph.com/) - The First Native Parallel Graph capable of real-time analytics on web-scale data
+* [VelesDB](https://github.com/cyberlife-coder/VelesDB) - Embedded database in Rust combining graph storage (MATCH clause inspired by Cypher), vector search (HNSW), and columnar analytics. VelesQL query language supports hybrid graph+vector queries. ~6MB binary.
 * [Weaviate](https://github.com/semi-technologies/weaviate) - Weaviate is a cloud-native, modular, real-time vector search engine with a graph data model (GraphQL interface) built to scale your machine learning models.
 
 ### Triple stores
