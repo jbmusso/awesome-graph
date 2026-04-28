@@ -19,6 +19,7 @@ A curated list of resources for graph databases and graph computing tools
 * [Grakn.AI](https://grakn.ai/) - a distributed hyper-relational database for knowledge-oriented systems, i.e. a distributed knowledge base
 * [Graphd](https://github.com/google/graphd) - the Metaweb/Freebase Graph Repository
 * [JanusGraph](http://janusgraph.org) - an open-source, distributed graph database with pluggable storage and indexing backends
+* [KGLite](https://kglite.readthedocs.io) - Embedded knowledge graph for Python written in Rust. Speaks openCypher, scales from in-memory to mmap to disk-backed CSR.
 * [Memgraph](https://memgraph.com/) - High Performance, In-Memory, Transactional Graph Database
 * [Neo4j](http://tinkerpop.apache.org/docs/current/#neo4j-gremlin) - OLTP graph database
 * [Nebula Graph](http://nebula-graph.io/) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
