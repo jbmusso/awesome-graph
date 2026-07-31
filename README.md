@@ -27,6 +27,7 @@ A curated list of resources for graph databases and graph computing tools
 * [OrientDB](http://orientdb.com/orientdb/) - Distributed Multi-Model NoSQL Database with a Graph Database Engine
 * [TerminusDB](https://github.com/terminusdb/terminusdb) is an open source graph database and document store. It is designed for collaboratively building data-intensive applications and knowledge graphs.
 * [TigerGraph](https://www.tigergraph.com/) - The First Native Parallel Graph capable of real-time analytics on web-scale data
+* [TypeDB][https://typedb.com/) - A hypergraph OLTP database with a strongly typed query language
 * [Weaviate](https://github.com/semi-technologies/weaviate) - Weaviate is a cloud-native, modular, real-time vector search engine with a graph data model (GraphQL interface) built to scale your machine learning models.
 
 ### Triple stores
@@ -53,6 +54,7 @@ A curated list of resources for graph databases and graph computing tools
 * [Gremlin](https://tinkerpop.apache.org/gremlin.html)
 * [SPARQL](https://en.wikipedia.org/wiki/SPARQL)
 * [GSQL](https://docs.tigergraph.com/)
+* [TypeQL](https://github.com/typedb/typeql)
 
 ## Managed hosting services
 
@@ -68,6 +70,7 @@ A curated list of resources for graph databases and graph computing tools
 ### Official documentations
 * [Cypher](https://neo4j.com/developer/cypher-query-language/) - reference documentation
 * [Gremlin](http://tinkerpop.apache.org/docs/current/reference/#traversal) - reference documentation
+* [TypeQL](https://typedb.com/docs/typeql-reference/) - reference documentation
 
 ### Community effort
 * [Graph Book](https://github.com/krlawrence/graph) - TinkerPop3 centric book written by [Kelvin R. Lawrence](https://twitter.com/gfxman)
