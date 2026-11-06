@@ -18,6 +18,7 @@ A curated list of resources for graph databases and graph computing tools
 * [Grafito](https://github.com/arturo-lang/grafito) - Portable, Serverless & Lightweight SQLite-based Graph Database in Arturo
 * [Grakn.AI](https://grakn.ai/) - a distributed hyper-relational database for knowledge-oriented systems, i.e. a distributed knowledge base
 * [Graphd](https://github.com/google/graphd) - the Metaweb/Freebase Graph Repository
+* [HydraDB](https://github.com/hydra-db/hydradb) - open-source graph database in Rust built on S3-compatible object storage, with openCypher queries and Neo4j-compatible Bolt drivers
 * [JanusGraph](http://janusgraph.org) - an open-source, distributed graph database with pluggable storage and indexing backends
 * [Memgraph](https://memgraph.com/) - High Performance, In-Memory, Transactional Graph Database
 * [Neo4j](http://tinkerpop.apache.org/docs/current/#neo4j-gremlin) - OLTP graph database
