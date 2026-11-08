@@ -22,6 +22,7 @@ A curated list of resources for graph databases and graph computing tools
 * [Memgraph](https://memgraph.com/) - High Performance, In-Memory, Transactional Graph Database
 * [Neo4j](http://tinkerpop.apache.org/docs/current/#neo4j-gremlin) - OLTP graph database
 * [Nebula Graph](http://nebula-graph.io/) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
+* [Omnigraph](https://github.com/ModernRelay/omnigraph) - Open-source (MIT) typed property graph database in Rust that stores graphs on object storage (S3-compatible or local disk) in the Lance format, with Git-style branches and merges, schemas enforced on every write, and graph traversal, vector search and full-text search in one query.
 * [Sparksee](http://www.sparsity-technologies.com/#sparksee) - makes space and performance compatible with a small footprint and a fast analysis of large networks
 * [Stardog](http://stardog.com/) - RDF graph database with OLTP and OLAP support
 * [OrientDB](http://orientdb.com/orientdb/) - Distributed Multi-Model NoSQL Database with a Graph Database Engine
