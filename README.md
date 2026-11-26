@@ -15,6 +15,7 @@ A curated list of resources for graph databases and graph computing tools
 * [Dgraph](https://dgraph.io) - Fast, Transactional, Distributed Graph Database (open source, written in Go)
 * [DSE Graph](https://www.datastax.com/products/datastax-enterprise-graph) - Graph layer on top of DataStax Enterprise (Cassandra, SolR, Spark)
 * [FalkorDB]([https://githug/](https://github.com/falkordb/falkordb)) - Property graph database, based on linear algebra constructs (GraphBLAS)
+* [Galactus DB](https://galactusdb.com/) - property graph database written in Rust, with Cypher over Bolt, typed SQL tables on nodes and relationships, and vector, full-text and spatial indexes in one server (free Community edition)
 * [Grafito](https://github.com/arturo-lang/grafito) - Portable, Serverless & Lightweight SQLite-based Graph Database in Arturo
 * [Grakn.AI](https://grakn.ai/) - a distributed hyper-relational database for knowledge-oriented systems, i.e. a distributed knowledge base
 * [Graphd](https://github.com/google/graphd) - the Metaweb/Freebase Graph Repository
